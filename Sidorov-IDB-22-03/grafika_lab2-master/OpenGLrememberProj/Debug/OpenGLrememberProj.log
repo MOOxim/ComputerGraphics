@@ -1,0 +1,6 @@
+﻿  Render.cpp
+C:\Users\maxim\Downloads\Sidorov-IDB-22-03-KG\grafika_lab2-master\OpenGLrememberProj\Render.cpp(115,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\maxim\Downloads\Sidorov-IDB-22-03-KG\grafika_lab2-master\OpenGLrememberProj\Render.cpp(115,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\maxim\Downloads\Sidorov-IDB-22-03-KG\grafika_lab2-master\OpenGLrememberProj\Render.cpp(115,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+C:\Users\maxim\Downloads\Sidorov-IDB-22-03-KG\grafika_lab2-master\OpenGLrememberProj\Render.cpp(335,6): warning C4101: i: неиспользованная локальная переменная
+  OpenGLrememberProj.vcxproj -> C:\Users\maxim\Downloads\Sidorov-IDB-22-03-KG\grafika_lab2-master\Debug\OpenGLrememberProj.exe
